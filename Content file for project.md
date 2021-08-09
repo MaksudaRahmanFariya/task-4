@@ -26,7 +26,7 @@
  <p>return(sc)</p>
     
 <p>We removed our stop  words, extracted features , encoded them then tried to measure similarities using cosine_similaritis method .</p>
-<img scr='unnamed.png' alt = 'Image'>
+<img scr="unnamed.png" alt = 'Image'>
 <p>We would get the output like that</p>
 <h3>How to RUN the project</h3>
 <ol>
